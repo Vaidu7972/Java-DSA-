@@ -13,7 +13,7 @@
 
 /*1. function: 
     void main(){
-                 }
+                 } 
 
   2. class:  
      class main{
@@ -61,6 +61,7 @@ System.out.println(price);
 
     }
 }
+
 
 
 
