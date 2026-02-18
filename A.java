@@ -7,7 +7,7 @@
    JRE : java runtime environment,inside jdk
    JVM : java virtual machine , inside jre
 
-   java code(source code) -->  compiler(JDK) --> byte code(.class)
+   java code(source code) -->  compiler(JDK) --> byte code(.class) 
    byte code(.class)      -->      JVM       --> native code 
 */
 
@@ -61,6 +61,7 @@ System.out.println(price);
 
     }
 }
+
 
 
 
