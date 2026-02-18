@@ -8,7 +8,7 @@
    JVM : java virtual machine , inside jre
 
    java code(source code) -->  compiler(JDK) --> byte code(.class)
-   byte code(.class)      -->      JVM       --> native code
+   byte code(.class)      -->      JVM       --> native code 
 */
 
 /*1. function: 
@@ -61,5 +61,6 @@ System.out.println(price);
 
     }
 }
+
 
 
