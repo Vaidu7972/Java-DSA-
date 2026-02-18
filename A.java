@@ -35,7 +35,7 @@ public class A {
         System.out.print("Vaidehi !!");
 
         System.out.println(" ");
-        System.out.println("\n");  
+        System.out.println("\n");    
 
         System.out.println("wel");  
         System.out.println("com");
@@ -61,6 +61,7 @@ System.out.println(price);
 
     }
 }
+
 
 
 
